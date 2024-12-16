@@ -39,7 +39,7 @@
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">LinkedIn page</a>
     </li>
     {% endif %}
 
@@ -51,7 +51,7 @@
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
-      <a href="https://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+      <a href="https://github.com/{{ sidebar.github }}" target="_blank">Github page</a>
     </li>
     {% endif %}
 
@@ -106,13 +106,13 @@
 
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
-      <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+      <a href="{{ sidebar.goodreads }}" target="_blank">Google Scholar page</a>
     </li>
     {% endif %}
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="{{ sidebar.pdf }}" target="_blank">CV (PDF)</a>
     </li>
     {% endif %}
 

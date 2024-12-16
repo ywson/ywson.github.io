@@ -70,13 +70,13 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Combined M.S./Ph.D. in Electrical and Computer Engineering
+      - degree: Combined M.S./Ph.D. in Electrical and Computer Engineering (ECE)
         university: Seoul National University 
         time: 2013 - 2020
         details: |
             - Thesis: PHY/MAC Layer Strategies for High-Efficiency Dense WLANs
             - Advisor: Prof. Saewoong Bahk and Sunghyun Choi (currently Corporate EVP and Head of Advanced R&D, Samsung Networks)
-      - degree: B.S. Major in Electrical and Computer Engineering, Minor in Economics
+      - degree: B.S. Major in ECE, Minor in Economics
         university: Seoul National University
         time: 2009 - 2013
         details: |

@@ -149,13 +149,13 @@ patents:
 certifications:
       title: Research Projects
       list:
-        - name: Development of wireless LAN platform with smart cloud based multi radio structure, July 2018 to Aug. 2020.
+        - name: Development of wireless LAN platform with smart cloud based multi radio structure
           start: 
           end: 
           organization: Institute for Information and Communications Technology Promotion (IITP)
           credentialid: 
           credentialurl: 
-          credentialname: 
+          credentialname: July 2018 to Aug. 2020.
           details: |
         - name: Extensions of optimal spatial reuse algorithmbased on next-generation IEEE 802.11ax standard considering practical use environments, July 2018 to June 2019.
           start: 

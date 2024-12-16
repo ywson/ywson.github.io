@@ -39,19 +39,13 @@ sidebar:
         - idiom: Room 510-1, BLDG 302, Seoul National University, Gwanak-ro 1, Gwanak-gu, Seoul, South Korea
           level: 08826
 
-        - idiom: 
-          level: 
-
-        - idiom: 
-          level: 
-
     interests:
-      title: Interests
+      title: Research Interests
       info:
-        - item: Climbing
-          link:
+        - item: Wireless Networks & Connectivity
+          link: Wi-Fi, IoT, 5G/6G and beyond
 
-        - item: Snowboarding
+        - item: 
           link:
 
         - item: Cooking

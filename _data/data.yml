@@ -173,17 +173,22 @@ patents:
       - title: "Wireless Communication Device Using Spatial Reuse and Data Communication Method Using the Same"
         link: "#"
         authors: "<b>Youngwook Son</b>, Seongwon Kim, Kanghyun Lee, Jonghoon Han, and Sunghyun Choi"
-        conference: U.S. Patent 11381366, July. 5, 2022.
+        conference: "U.S. Patent 11381366, July. 5, 2022."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Method and Apparatus for Determining Carrier Sense Threshold in Wireless Communication System"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: "Seongwon Kim, Seungmin Yoo, <b>Youngwook Son</b>, Jaehong Yi, Sunghyun Choi, SangHyun Chang, Byounghoon Jung, and Sooyoung Jang"
+        conference: "U.S. Patent 10602544, Mar. 24, 2020."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Method and Apparatus for Transmitting and Receiving Buffer Status Information in Wireless Communication System"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: "<b>Youngwook Son</b>, Seungmin Yoo, Seongwon Kim, Jaehong Yi, Sunghyun Choi, SangHyun Chang, Byounghoon Jung, and Sooyoung Jang"
+        conference: "U.S. Patent 10070341B2, Sep. 4, 2018."
+
+      - title: "Technique and Apparatus for Selecting Multiple Antennas"
+        link: "#"
+        authors: "Seungmin Yoo, Seongwon Kim, <b>Youngwook Son</b>, Jaehong Yi, Sunghyun Choi, Youngjip Kim, Taejun Kim, Okhwan Lee, and Woonkyun Lee"
+        conference: "U.S. Patent 10348377, July 9, 2019."
 
 certifications:
       title: Research Projects

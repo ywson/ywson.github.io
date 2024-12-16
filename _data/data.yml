@@ -28,10 +28,10 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    #mastodon:  # Please include your full Mastodon link here.
+    mastodon: https://scholar.google.co.kr/citations?user=q7vjOQEAAAAJ&hl=ko&oi=ao  # Please include your full Mastodon link here.
     #hackerrank: # Please provide your HackerRank username.
     #leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: https://scholar.google.co.kr/citations?user=q7vjOQEAAAAJ&hl=ko&oi=ao # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages

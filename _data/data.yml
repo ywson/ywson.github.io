@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Youngwook Son
-    tagline: Postdoctoral Researcher
+    tagline: Postdoctoral Researcher / Staff Engineer
     avatar: cv.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,7 +39,7 @@ sidebar:
         - idiom: Ubiquitous Network Laboratory (NETLAB) and the Institute of New Media and Communications (INMC), Seoul National University
           level: Addr. Gwanak-ro 1, Gwanak-gu, Seoul, South Korea (08826)
 
-        - idiom: (on academic leave) Connectivity Development Team of System LSI Business, Samsung Electronics
+        - idiom: (currently on academic leave) Connectivity Development Team of System LSI Business, Samsung Electronics
           level: Addr. Samsungjeonja-ro 1, Hwaseong, Gyeonggi-do, South Korea (18448)
 
     interests:
@@ -76,17 +76,11 @@ education:
         details: |
             - Thesis: PHY/MAC Layer Strategies for High-Efficiency Dense WLANs
             - Advisor: Prof. Saewoong Bahk and Sunghyun Choi (currently Corporate EVP and Head of Advanced R&D, Samsung Networks)
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: B.S. Major in Electrical and Computer Engineering, Minor in Economics
+        university: Seoul National University
+        time: 2009 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Graduated cum laude with B.S. Major in Electrical and Computer Engineering
 
 experiences:
     title: Experiences

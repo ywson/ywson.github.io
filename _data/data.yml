@@ -36,8 +36,6 @@ sidebar:
     languages:
       title: Affiliation
       info:
-        - idiom: Ubiquitous Network Laboratory (NETLAB), Seoul National University
-          
         - idiom: Address: Room 510-1, BLDG 302, Seoul National University, Gwanak-ro 1, Gwanak-gu, Seoul, South Korea
           level: 08826
 
@@ -62,6 +60,32 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
+education:
+    title: Education
+    info:
+      - degree: Combined M.S./Ph.D. in Electrical and Computer Engineering
+        university: Seoul National University 
+        time: 2013 - 2020
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Thesis: PHY/MAC Layer Strategies for High-Efficiency Dense WLANs
+            - Advisor: Prof. Saewoong Bahk and Sunghyun Choi (currently Corporate EVP and Head of Advanced R&D, Samsung Networks)
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences

@@ -108,7 +108,7 @@ publications:
     papers:
       - title: "Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness"
         link: "#"
-        authors: "Kanghyun Lee, <b>Youngwook Son</b>*, Jongyeon Park, and Saewoong Bahk*"
+        authors: "Kanghyun Lee, <u><b>Youngwook Son</b></u>*, Jongyeon Park, and Saewoong Bahk*"
         conference: "To appear in <em><b>IEEE INFOCOM 2024</b></em>, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458)"
 
       - title: "Recovering CSI and Data in Dense Network Environments using IEEE 802.11ax Midamble"

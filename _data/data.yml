@@ -37,8 +37,10 @@ sidebar:
       title: Affiliation
       info:
         - idiom: Ubiquitous Network Laboratory (NETLAB) and the Institute of New Media and Communications (INMC), Seoul National University
-          level: Addr. Room 510-1, BLDG 302, Seoul National University, Gwanak-ro 1, Gwanak-gu, Seoul, South Korea (08826)
+          level: Addr. Gwanak-ro 1, Gwanak-gu, Seoul, South Korea (08826)
 
+        - idiom: Connectivity Development Team of System LSI Business, Samsung Electronics
+          level: Addr. Samsungjeonja-ro 1, Hwaseong, Gyeonggi-do, South Korea (18448)
 
     interests:
       title: Research Interests

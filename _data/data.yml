@@ -169,7 +169,7 @@ publications:
 patents:
     title: Patents
     #intro: 
-    papers:
+    patents:
       - title: "Wireless Communication Device Using Spatial Reuse and Data Communication Method Using the Same"
         link: "#"
         authors: "<b>Youngwook Son</b>, Seongwon Kim, Kanghyun Lee, Jonghoon Han, and Sunghyun Choi"

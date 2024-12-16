@@ -108,8 +108,23 @@ publications:
     papers:
       - title: "Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness"
         link: "#"
-        authors: "Kanghyun Lee, <b>Youngwook Son*</b>, Jongyeon Park, and Saewoong Bahk*"
+        authors: "Kanghyun Lee, <b>Youngwook Son</b>*, Jongyeon Park, and Saewoong Bahk*"
         conference: "To appear in <em>IEEE INFOCOM 2024</em>, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458)"
+
+      - title: "Recovering CSI and Data in Dense Network Environments using IEEE 802.11ax Midamble"
+        link: "#"
+        authors: "Kanghyun Lee, Juhun Shin, Jongyeon Park, <b>Youngwook Son</b>*, and Saewoong Bahk*"
+        conference: "<em>IEEE Access</em>, vol. 11, pp. 65858-65871, June. 2023. (Open Access)"
+
+      - title: "Revisiting Wi-Fi Performance under the Impact of Corrupted Channel State Information"
+        link: "#"
+        authors: "<b>Youngwook Son</b> and Saewoong Bahk*"
+        conference: "in <em>Proc. ACM MSWiM 2020</em>, Online (due to COVID-19 pandemic), Nov. 16-20, 2020. (Acceptance ratio: 25% = 24/96, Best paper runner-up)"
+
+      - title: "REFRAIN: Promoting Valid Transmissions in High-Density Modern Wi-Fi Networks"
+        link: "#"
+        authors: "<b>Youngwook Son</b>, Kanghyun Lee, Seongwon Kim, Jinmyeong Lee, Sunghyun Choi, and Saewoong Bahk*"
+        conference: "in <em>Proc. ACM MobiHoc 2020</em>, Online (due to COVID-19 pandemic), Oct. 11-13, 2020. (Acceptance ratio: 15.3% = 30/196)"
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"

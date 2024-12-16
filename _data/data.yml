@@ -104,12 +104,12 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      ("*" indicates corresponding author(s))
+    intro: ("*" indicates corresponding author(s))
     papers:
       - title: Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness
         link: "#"
-        authors: Kanghyun Lee, Youngwook Son"*", Jongyeon Park, and Saewoong Bahk"*"
+        authors: |
+            Kanghyun Lee, Youngwook Son*, Jongyeon Park, and Saewoong Bahk*
         conference: To appear in IEEE INFOCOM 2024, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458) 
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"

@@ -236,22 +236,15 @@ certifications:
 
 oss:
     title: Professional Activities
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: 
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: "Paper Reviewer"
+        #link: "#"
+        tagline: "ACM MobiCom, IEEE INFOCOM, IEEE WoWMoM, IEEE SECON, IEEE Globecom, IEEE WCNC, IEEE Trans. Wireless Commun., IEEE J. Select. Areas Commun."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: "Technical Program Committee Member"
+        #link: "#"
+        tagline: "IEEE WCNC 2020, IEEE J. Select. Areas Commun. (Special Issue on the Future of Wi-Fi and Wireless Technologies in Unlicensed Spectra)"
 
 projects:
     title: Honor and Awards

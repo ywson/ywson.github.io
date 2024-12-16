@@ -213,17 +213,17 @@ projects:
     title: Honor and Awards
     #intro: >
     assignments:
-      - title: Paper Excellence Award from SNU-Samsung DS SSSP scholarship, Aug. 2020.
+      - title: Paper Excellence Award
         link: 
-        tagline: 
+        tagline: SNU-Samsung DS SSSP scholarship, Aug. 2020.
 
-      - title: Gold Prize (1st prize in Communications & Network division) from Samsung HumanTech Paper Award, Feb. 2016.
+      - title: Gold Prize (1st prize in Communications & Network division) 
         link: 
-        tagline: 
+        tagline: Samsung HumanTech Paper Award, Feb. 2016.
 
-      - title: Korea Education For Advanced Studies (KFAS) scholarship, Apr. 2014 to Feb. 2019.
+      - title: Korea Education For Advanced Studies (KFAS) scholarship 
         link: 
-        tagline: 
+        tagline: Apr. 2014 to Feb. 2019.
 
 skills:
     title: Skills &amp; Proficiency

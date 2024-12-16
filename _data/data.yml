@@ -149,15 +149,15 @@ patents:
 certifications:
       title: Research Projects
       list:
-        - name: Development of wireless LAN platform with smart cloud based multi radio structure
+        - name: Development of wireless LAN platform with smart cloud based multi radio structure (July 2018 to Aug. 2020).
           start: 
           end: 
           organization: Institute for Information and Communications Technology Promotion (IITP)
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: July 2018 to Aug. 2020.
-        - name: Extensions of optimal spatial reuse algorithmbased on next-generation IEEE 802.11ax standard considering practical use environments, July 2018 to June 2019.
+          details: 
+        - name: Extensions of optimal spatial reuse algorithmbased on next-generation IEEE 802.11ax standard considering practical use environments (July 2018 to June 2019).
           start: 
           end: 
           organization: Samsung Electronics
@@ -165,7 +165,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-        - name: Implementation of optimal spatial reuse algorithm based on next-generation IEEE 802.11ax standard, July 2017 to June 2018.
+        - name: Implementation of optimal spatial reuse algorithm based on next-generation IEEE 802.11ax standard (July 2017 to June 2018).
           start: 
           end: 
           organization: Samsung Electronics
@@ -173,7 +173,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-        - name: IoT heterogeneous connectivity and operation system, Sep. 2014 to Aug. 2015.
+        - name: IoT heterogeneous connectivity and operation system (Sep. 2014 to Aug. 2015).
           start: 
           end: 
           organization: Samsung Electronics
@@ -181,7 +181,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-        - name: Multiple antenna selection in office environments, Oct. 2013 to May 2014.
+        - name: Multiple antenna selection in office environments (Oct. 2013 to May 2014).
           start: 
           end: 
           organization: Samsung Electronics

@@ -134,7 +134,7 @@ publications:
       - title: "Quiet CTS: CTS Power Control for Better Spatial Reuse in Wi-Fi"
         link: "#"
         authors: "Seongwon Kim, <b>Youngwook Son</b>, Kanghyun Lee, Jaehong Yi, and Sunghyun Choi"
-        conference: "in <em>Proc. ACM MobiHoc 2020</em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.71% = 37/156)"
+        conference: "in <em>Proc. ACM MobiHoc 2020</em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
 
       - title: "Symbol Timing Synchronization for Uplink Multi-User Transmission in IEEE 802.11ax WLAN"
         link: "#"
@@ -149,7 +149,7 @@ publications:
       - title: "Quiet ACK: ACK Transmit Power Control in IEEE 802.11 WLANs"
         link: "#"
         authors: "Seongwon Kim, Jaehong Yi, <b>Youngwook Son</b>, Seungmin Yoo, and Sunghyun Choi"
-        conference: "in <em>Proc. IEEE INFOCOM 2017</em>, Atlanta, GA, USA, May 1-4, 2017. (Acceptance ratio: 20.93% = 292/1395)"
+        conference: "in <em>Proc. IEEE INFOCOM 2017</em>, Atlanta, GA, USA, May 1-4, 2017. (Acceptance ratio: 20.9% = 292/1395)"
 
       - title: "FACT: Fine-Grained Adaptation of Carrier Sense Threshold in IEEE 802.11 WLANs"
         link: "#"
@@ -164,7 +164,7 @@ publications:
       - title: "Practical Antenna Selection for WLAN AP"
         link: "#"
         authors: "Seungmin Yoo, Seongwon Kim, <b>Youngwook Son</b>, Jaehong Yi, and Sunghyun Choi"
-        conference: "in <em>Proc. IEEE INFOCOM 2016</em>, San Francisco, CA, USA, Apr. 10-15, 2016. (Acceptance ratio: 18.25% = 300/1644)"
+        conference: "in <em>Proc. IEEE INFOCOM 2016</em>, San Francisco, CA, USA, Apr. 10-15, 2016. (Acceptance ratio: 18.2% = 300/1644)"
 
 patents:
     title: Patents

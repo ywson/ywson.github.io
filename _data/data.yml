@@ -28,22 +28,22 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon: https://scholar.google.co.kr/citations?user=q7vjOQEAAAAJ&hl=ko&oi=ao  # Please include your full Mastodon link here.
+    #mastodon: # Please include your full Mastodon link here.
     #hackerrank: # Please provide your HackerRank username.
     #leetcode: # Please provide your LeetCode username.
     pdf: https://scholar.google.co.kr/citations?user=q7vjOQEAAAAJ&hl=ko&oi=ao # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: Languages
+      title: Address
       info:
-        - idiom: English
-          level: Native
+        - idiom: Room 510-1, BLDG 302, Seoul National University, Gwanak-ro 1, Gwanak-gu, Seoul, South Korea
+          level: 08826
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests

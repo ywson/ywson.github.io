@@ -34,9 +34,12 @@ sidebar:
     pdf: https://scholar.google.co.kr/citations?user=q7vjOQEAAAAJ&hl=ko&oi=ao # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: Address
+      title: Affiliation
       info:
-        - idiom: Room 510-1, BLDG 302, Seoul National University, Gwanak-ro 1, Gwanak-gu, Seoul, South Korea
+        - idiom: Ubiquitous Network Laboratory (NETLAB), Seoul National University
+          level: 
+          
+        - idiom: Address: Room 510-1, BLDG 302, Seoul National University, Gwanak-ro 1, Gwanak-gu, Seoul, South Korea
           level: 08826
 
     interests:
@@ -48,7 +51,7 @@ sidebar:
         - item: Integrated Sensing and Communications (ISAC)
           link:
 
-        - item: Wireless Intelligence & Mobile Applications
+        - item: Wireless Intelligence & Mobile Computing Applications
           link:
 
 career-profile:
@@ -63,17 +66,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Combined M.S./Ph.D. in Electrical and Computer Engineering
+        university: Seoul National University 
+        time: 2013 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Thesis: PHY/MAC Layer Strategies for High-Efficiency Dense WLANs
+            - Advisor: Prof. Saewoong Bahk
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011

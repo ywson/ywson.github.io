@@ -114,57 +114,57 @@ publications:
       - title: "Recovering CSI and Data in Dense Network Environments using IEEE 802.11ax Midamble"
         link: "#"
         authors: "Kanghyun Lee, Juhun Shin, Jongyeon Park, <b>Youngwook Son</b>*, and Saewoong Bahk*"
-        conference: "<em>IEEE Access</em>, vol. 11, pp. 65858-65871, June 2023. (Open Access)"
+        conference: "<em><b>IEEE Access</b></em>, vol. 11, pp. 65858-65871, June 2023. (Open Access)"
 
       - title: "Revisiting Wi-Fi Performance under the Impact of Corrupted Channel State Information"
         link: "#"
         authors: "<b>Youngwook Son</b> and Saewoong Bahk*"
-        conference: "in <em>Proc. ACM MSWiM 2020</em>, Online (due to COVID-19 pandemic), Nov. 16-20, 2020. (Acceptance ratio: 25% = 24/96, Best paper runner-up)"
+        conference: "in <em>Proc. <b>ACM MSWiM 2020</b></em>, Online (due to COVID-19 pandemic), Nov. 16-20, 2020. (Acceptance ratio: 25% = 24/96, Best paper runner-up)"
 
       - title: "REFRAIN: Promoting Valid Transmissions in High-Density Modern Wi-Fi Networks"
         link: "#"
         authors: "<b>Youngwook Son</b>, Kanghyun Lee, Seongwon Kim, Jinmyeong Lee, Sunghyun Choi, and Saewoong Bahk*"
-        conference: "in <em>Proc. ACM MobiHoc 2020</em>, Online (due to COVID-19 pandemic), Oct. 11-13, 2020. (Acceptance ratio: 15.3% = 30/196)"
+        conference: "in <em>Proc. <b>ACM MobiHoc 2020</b></em>, Online (due to COVID-19 pandemic), Oct. 11-13, 2020. (Acceptance ratio: 15.3% = 30/196)"
 
       - title: "AWARE: Adaptive Wi-Fi Power Save Operation Coexisting with LTE-U"
         link: "#"
         authors: "Hwijae Kwon, Seongwon Kim, <b>Youngwook Son</b>, Changmok Yang, Seongho Byeon, and Sunghyun Choi"
-        conference: "in <em>Proc. IEEE MASS 2019</em>, Monterey, CA, USA, Nov. 4-7, 2019."
+        conference: "in <em>Proc. <b>IEEE MASS 2019</b></em>, Monterey, CA, USA, Nov. 4-7, 2019."
 
       - title: "Quiet CTS: CTS Power Control for Better Spatial Reuse in Wi-Fi"
         link: "#"
         authors: "Seongwon Kim, <b>Youngwook Son</b>, Kanghyun Lee, Jaehong Yi, and Sunghyun Choi"
-        conference: "in <em>Proc. ACM MobiHoc 2020</em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
+        conference: "in <em>Proc. <b>ACM MobiHoc 2020</b></em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
 
       - title: "Symbol Timing Synchronization for Uplink Multi-User Transmission in IEEE 802.11ax WLAN"
         link: "#"
         authors: "<b>Youngwook Son</b>, Seongwon Kim*, Seongho Byeon, and Sunghyun Choi*"
-        conference: "<em>IEEE Access</em>, vol. 6, pp. 72962-72977, Nov. 2018. (Open Access)"
+        conference: "<em><b>IEEE Access</b></em>, vol. 6, pp. 72962-72977, Nov. 2018. (Open Access)"
 
       - title: "RECONN: Receiver-Driven Operating Channel Width Adaptation in IEEE 802.11ac WLANs"
         link: "#"
         authors: "Seongho Byeon, Hwijae Kwon, <b>Youngwook Son</b>, Changmok Yang, and Sunghyun Choi"
-        conference: "in <em>Proc. IEEE INFOCOM 2018</em>, Honolulu, Hawaii, USA, Apr. 15-19, 2018. (Acceptance Ratio: 19.2% = 309/1606)"
+        conference: "in <em>Proc. <b>IEEE INFOCOM 2018</b></em>, Honolulu, Hawaii, USA, Apr. 15-19, 2018. (Acceptance Ratio: 19.2% = 309/1606)"
 
       - title: "Quiet ACK: ACK Transmit Power Control in IEEE 802.11 WLANs"
         link: "#"
         authors: "Seongwon Kim, Jaehong Yi, <b>Youngwook Son</b>, Seungmin Yoo, and Sunghyun Choi"
-        conference: "in <em>Proc. IEEE INFOCOM 2017</em>, Atlanta, GA, USA, May 1-4, 2017. (Acceptance ratio: 20.9% = 292/1395)"
+        conference: "in <em>Proc. <b>IEEE INFOCOM 2017</b></em>, Atlanta, GA, USA, May 1-4, 2017. (Acceptance ratio: 20.9% = 292/1395)"
 
       - title: "FACT: Fine-Grained Adaptation of Carrier Sense Threshold in IEEE 802.11 WLANs"
         link: "#"
         authors: "Seongwon Kim, Seungmin Yoo, Jaehong Yi, <b>Youngwook Son</b>, and Sunghyun Choi*"
-        conference: "<em>IEEE Transactions on Vehicular Technology (TVT)</em>, vol. 66, no. 2, pp. 1886-1891, Feb. 2017."
+        conference: "<em><b>IEEE Transactions on Vehicular Technology (TVT)</b></em>, vol. 66, no. 2, pp. 1886-1891, Feb. 2017."
 
       - title: "ProCCA: Protective Clear Channel Assessment in IEEE 802.11 WLANs"
         link: "#"
         authors: "Seungmin Yoo, Seongwon Kim, Jaehong Yi, <b>Youngwook Son</b>, and Sunghyun Choi*"
-        conference: "<em>IEEE Communications Letters</em>, vol. 20, no. 5, pp. 958-961, May 2016."
+        conference: "<em><b>IEEE Communications Letters</b></em>, vol. 20, no. 5, pp. 958-961, May 2016."
 
       - title: "Practical Antenna Selection for WLAN AP"
         link: "#"
         authors: "Seungmin Yoo, Seongwon Kim, <b>Youngwook Son</b>, Jaehong Yi, and Sunghyun Choi"
-        conference: "in <em>Proc. IEEE INFOCOM 2016</em>, San Francisco, CA, USA, Apr. 10-15, 2016. (Acceptance ratio: 18.2% = 300/1644)"
+        conference: "in <em>Proc. <b>IEEE INFOCOM 2016</b></em>, San Francisco, CA, USA, Apr. 10-15, 2016. (Acceptance ratio: 18.2% = 300/1644)"
 
 patents:
     title: Patents

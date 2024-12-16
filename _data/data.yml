@@ -87,18 +87,18 @@ experiences:
     info:
       - role: Postdoctoral Researcher
         time: 2024 - Present
-        company: Ubiquitous Network Laboratory (NETLAB) and the Institute of New Media and Communications (INMC), Seoul National University
+        company: Seoul National University, Seoul, South Korea
         details: |
-      - role: System Engineer
-        time: 2020 - Present (currently on academic leave)
-        company: Samsung Electronics Co., Ltd., Gyeonggi-do
+      - role: System Engineer (currently on academic leave)
+        time: 2020 - Present 
+        company: Samsung Electronics Co., Ltd., Gyeonggi-do, South Korea
         details: |
           Connectivity Development Team of System LSI Business
             - Digital front-end & baseband modem design for Wi-Fi SoC  
             - IEEE 802.11 standardization
       - role: Internship
         time: 2013
-        company: Soundly, Seoul
+        company: Soundly, INC., Seoul, South Korea
         details: |
           
 

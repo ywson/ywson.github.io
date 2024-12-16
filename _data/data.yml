@@ -10,12 +10,12 @@ sidebar:
     # Profile information
     name: Youngwook Son
     tagline: Postdoctoral Researcher
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: cv.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: ywson@netlab.snu.ac.kr 
+    phone: +82-10-4713-1352 
+    timezone: South Korea/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe

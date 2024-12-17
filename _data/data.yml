@@ -104,7 +104,7 @@ experiences:
 
 publications:
     title: Publications
-    intro: ("*" indicates corresponding author(s))
+    intro: (* indicates corresponding authors)
     papers:
       - title: "Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness"
         link: "#"
@@ -238,11 +238,11 @@ oss:
     title: Professional Activities
     #intro: 
     contributions:
-      - title: "Paper Reviewer"
+      - title: "Paper Reviewer:"
         #link: "#"
         tagline: "ACM MobiCom, IEEE INFOCOM, IEEE WoWMoM, IEEE SECON, IEEE Globecom, IEEE WCNC, IEEE Trans. Wireless Commun., IEEE J. Select. Areas Commun."
 
-      - title: "Technical Program Committee Member"
+      - title: "Technical Program Committee Member:"
         #link: "#"
         tagline: "IEEE WCNC 2020, IEEE J. Select. Areas Commun. (Special Issue on the Future of Wi-Fi and Wireless Technologies in Unlicensed Spectra)"
 

@@ -278,17 +278,25 @@ expertise:
     title: Skills and Expertise
     #intro: 
     contributions:
-      - title: "Paper Reviewer:"
+      - title: "Programming Languages and Frameworks:"
         #link: "#"
         tagline: "ACM MobiCom, IEEE INFOCOM, IEEE WoWMoM, IEEE SECON, IEEE Globecom, IEEE WCNC, IEEE Trans. Wireless Commun., IEEE J. Select. Areas Commun."
 
-      - title: "Technical Program Committee Member:"
+      - title: "Prototyping Tools:"
         #link: "#"
         tagline: "IEEE WCNC 2020, IEEE J. Select. Areas Commun." # (Special Issue on the Future of Wi-Fi and Wireless Technologies in Unlicensed Spectra)"
 
-      - title: "Invited Talks and Tutorials:"
+      - title: "Simulation Tools:"
         #link: "#"
         tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
 
+      - title: "Test, Data Acquisition, and Measurement Tools:"
+        #link: "#"
+        tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
+
+      - title: "Desktop Editing and Productivity:"
+        #link: "#"
+        tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
+        
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

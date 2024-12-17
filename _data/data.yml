@@ -292,7 +292,7 @@ expertise:
 
       - title: "Test, Data Acquisition, and Measurement Tools:"
         #link: "#"
-        tagline: "Wireshark, Channelyzer, Iperf, and IxChariot."
+        tagline: "Wireshark, AirPcap, Channelyzer, Iperf, and IxChariot."
 
       - title: "Desktop Editing and Productivity:"
         #link: "#"

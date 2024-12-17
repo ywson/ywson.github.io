@@ -283,7 +283,7 @@ expertise:
 
       - title: "Simulation Tools:"
         #link: "#"
-        tagline: "Network simulator 3 (ns-3), 802.11a/ac/ax/p PHY link-level simulator with IT++ library, and MATLAB Communications Toolbox."
+        tagline: "Network simulator 3 (ns-3), 802.11a/ac/ax/p PHY link-level simulator with IT++ library, and MATLAB Communications/DSP/WLAN Toolboxes."
 
       - title: "Test, Data Acquisition, and Measurement Tools:"
         #link: "#"

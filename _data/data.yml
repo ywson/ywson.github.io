@@ -280,7 +280,7 @@ expertise:
     contributions:
       - title: "Programming Languages and Frameworks:"
         #link: "#"
-        tagline: "C/C++, Python, Java, MATLAB, UNIX shell scripting, Windows batch scripting, Visual Studio, VS code, and Git."
+        tagline: "C/C++, Python, Java, MATLAB, UNIX shell scripting, Windows batch scripting, Visual Studio, and Git."
 
       - title: "Prototyping Tools:"
         #link: "#"

@@ -274,27 +274,21 @@ projects:
         link: 
         tagline: from Korea Student Aid Foundation (KOSAF), Mar. 2009 to Feb. 2013.
 
-skills:
-    title: Skills &amp; Proficiency
+expertise:
+    title: Skills and Expertise
+    #intro: 
+    contributions:
+      - title: "Paper Reviewer:"
+        #link: "#"
+        tagline: "ACM MobiCom, IEEE INFOCOM, IEEE WoWMoM, IEEE SECON, IEEE Globecom, IEEE WCNC, IEEE Trans. Wireless Commun., IEEE J. Select. Areas Commun."
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: "Technical Program Committee Member:"
+        #link: "#"
+        tagline: "IEEE WCNC 2020, IEEE J. Select. Areas Commun." # (Special Issue on the Future of Wi-Fi and Wireless Technologies in Unlicensed Spectra)"
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: "Invited Talks and Tutorials:"
+        #link: "#"
+        tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

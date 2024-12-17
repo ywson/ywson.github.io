@@ -192,7 +192,7 @@ patents:
 certifications:
       title: Research Projects
       list:
-        - name: Development of wireless LAN platform with smart cloud based multi radio structure (July 2018 to Aug. 2020).
+        - name: '"Development of wireless LAN platform with smart cloud based multi radio structure"' (July 2018 to Aug. 2020).
           start: 
           end: 
           organization: Institute for Information and Communications Technology Promotion (IITP)
@@ -251,11 +251,11 @@ projects:
     assignments:
       - title: Paper Excellence Award
         link: 
-        tagline: from SNU-Samsung DS SSSP scholarship, Aug. 2020.
+        tagline: from SNU-Samsung DS SSSP Scholarship, Aug. 2020.
 
       - title: Gold Prize (1st prize in Communications & Network division) 
         link: 
-        tagline: from Samsung HumanTech Paper Award, Feb. 2016.
+        tagline: from Samsung HumanTech Paper Awards, Feb. 2016.
 
       - title: Industrial Scholarship
         link: 

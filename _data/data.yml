@@ -244,7 +244,7 @@ oss:
 
       - title: "Technical Program Committee Member:"
         #link: "#"
-        tagline: "IEEE WCNC 2020, IEEE J. Select. Areas Commun. (Special Issue on the Future of Wi-Fi and Wireless Technologies in Unlicensed Spectra)"
+        tagline: "IEEE WCNC 2020, IEEE J. Select. Areas Commun." # (Special Issue on the Future of Wi-Fi and Wireless Technologies in Unlicensed Spectra)"
 
       - title: "Invited Talks and Tutorials:"
         #link: "#"

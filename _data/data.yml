@@ -297,6 +297,10 @@ expertise:
       - title: "Desktop Editing and Productivity:"
         #link: "#"
         tagline: "Vim, TeX (Overleaf, LaTeX, BibTeX), and Microsoft Office."
+
+      - title: "Languages:"
+        #link: "#"
+        tagline: "Korean and English."
         
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

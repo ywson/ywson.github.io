@@ -246,7 +246,7 @@ oss:
         tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
 
 projects:
-    title: Awards and Scholarship
+    title: Awards &amp; Scholarship
     #intro: >
     assignments:
       - title: Paper Excellence Award
@@ -270,7 +270,7 @@ projects:
         tagline: from Korea Student Aid Foundation (KOSAF), Mar. 2009 to Feb. 2013.
 
 expertise:
-    title: Skills and Expertise
+    title: Skills &amp; Expertise
     #intro: 
     contributions:
       - title: "Programming Languages and Frameworks:"

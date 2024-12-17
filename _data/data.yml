@@ -70,13 +70,13 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Combined M.S./Ph.D. in Electrical and Computer Engineering
+      - degree: "<b>Combined M.S./Ph.D. in Electrical and Computer Engineering</b>"
         university: Seoul National University 
         time: 2013 - 2020
         details: |
             - Thesis: PHY/MAC Layer Strategies for High-Efficiency Dense WLANs
             - Advisor: Prof. Saewoong Bahk and Sunghyun Choi (currently Corporate EVP and Head of Advanced R&D, Samsung Networks)
-      - degree: B.S. in Electrical and Computer Engineering, Minor in Economics
+      - degree: "<b>B.S. in Electrical and Computer Engineering, Minor in Economics</b>"
         university: Seoul National University
         time: 2009 - 2013
         details: |
@@ -85,18 +85,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Postdoctoral Researcher
+      - role: "<b>Postdoctoral Researcher</b>"
         time: 2024 - Present
         company: Seoul National University, Seoul, South Korea
         details: |
-      - role: System Engineer
+      - role: "<b>System Engineer</b>"
         time: 2020 - Present 
         company: Samsung Electronics Co., Ltd., Gyeonggi-do, South Korea
         details: |
           (currently on academic leave) Connectivity Development Team of System LSI Business
             - Digital front-end & baseband modem design for Wi-Fi SoC  
             - IEEE 802.11 PHY/MAC standardization
-      - role: Internship
+      - role: "<b>Internship</b>"
         time: 2013
         company: Soundly, INC., Seoul, South Korea
         details: |
@@ -170,22 +170,22 @@ patents:
     title: Patents
     #intro: 
     patents:
-      - title: "Wireless Communication Device Using Spatial Reuse and Data Communication Method Using the Same"
+      - title: "<b>Wireless Communication Device Using Spatial Reuse and Data Communication Method Using the Same</b>"
         link: "#"
         authors: "<u><b>Youngwook Son</b></u>, Seongwon Kim, Kanghyun Lee, Jonghoon Han, and Sunghyun Choi"
         conference: "U.S. Patent 11381366, July. 5, 2022."
 
-      - title: "Method and Apparatus for Determining Carrier Sense Threshold in Wireless Communication System"
+      - title: "<b>Method and Apparatus for Determining Carrier Sense Threshold in Wireless Communication System</b>"
         link: "#"
         authors: "Seongwon Kim, Seungmin Yoo, <u><b>Youngwook Son</b></u>, Jaehong Yi, Sunghyun Choi, SangHyun Chang, Byounghoon Jung, and Sooyoung Jang"
         conference: "U.S. Patent 10602544, Mar. 24, 2020."
 
-      - title: "Method and Apparatus for Transmitting and Receiving Buffer Status Information in Wireless Communication System"
+      - title: "<b>Method and Apparatus for Transmitting and Receiving Buffer Status Information in Wireless Communication System</b>"
         link: "#"
         authors: "<u><b>Youngwook Son</b></u>, Seungmin Yoo, Seongwon Kim, Jaehong Yi, Sunghyun Choi, SangHyun Chang, Byounghoon Jung, and Sooyoung Jang"
         conference: "U.S. Patent 10070341B2, Sep. 4, 2018."
 
-      - title: "Technique and Apparatus for Selecting Multiple Antennas"
+      - title: "<b>Technique and Apparatus for Selecting Multiple Antennas</b>"
         link: "#"
         authors: "Seungmin Yoo, Seongwon Kim, <u><b>Youngwook Son</b></u>, Jaehong Yi, Sunghyun Choi, Youngjip Kim, Taejun Kim, Okhwan Lee, and Woonkyun Lee"
         conference: "U.S. Patent 10348377, July 9, 2019."

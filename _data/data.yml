@@ -106,7 +106,7 @@ publications:
     title: Publications
     intro: (* indicates corresponding authors)
     papers:
-      - title: "Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness"
+      - title: "<b>Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness</b>"
         link: "#"
         authors: "Kanghyun Lee, <u><b>Youngwook Son</b></u>*, Jongyeon Park, and Saewoong Bahk*"
         conference: "To appear in <em><b>IEEE INFOCOM 2024</b></em>, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458)"

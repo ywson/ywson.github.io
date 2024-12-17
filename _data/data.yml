@@ -280,23 +280,23 @@ expertise:
     contributions:
       - title: "Programming Languages and Frameworks:"
         #link: "#"
-        tagline: "ACM MobiCom, IEEE INFOCOM, IEEE WoWMoM, IEEE SECON, IEEE Globecom, IEEE WCNC, IEEE Trans. Wireless Commun., IEEE J. Select. Areas Commun."
+        tagline: "C/C++, Python, Java, MATLAB, UNIX shell scripting, Windows batch scripting, Visual Studio, VS code, and Git."
 
       - title: "Prototyping Tools:"
         #link: "#"
-        tagline: "IEEE WCNC 2020, IEEE J. Select. Areas Commun." # (Special Issue on the Future of Wi-Fi and Wireless Technologies in Unlicensed Spectra)"
+        tagline: "NI LabVIEW Communications System Design Suite (CSDS), Linux wireless drivers, and Atheros device drivers and firmwares."
 
       - title: "Simulation Tools:"
         #link: "#"
-        tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
+        tagline: "Network simulator 3 (ns-3), 802.11a/ac/ax/p PHY link-level simulator with IT++ library, and MATLAB Communications Toolbox."
 
       - title: "Test, Data Acquisition, and Measurement Tools:"
         #link: "#"
-        tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
+        tagline: "Wireshark, Channelyzer, Iperf, and IxChariot."
 
       - title: "Desktop Editing and Productivity:"
         #link: "#"
-        tagline: "KICS Lectures on ns-3 (Feb. 2015, Feb. 2016, Aug. 2016, Feb. 2017, and Feb. 2018)."
+        tagline: "Vim, TeX (Overleaf, LaTeX, BibTeX), and Microsoft Office."
         
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

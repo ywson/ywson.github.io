@@ -54,7 +54,10 @@ sidebar:
         - item: Integrated Sensing and Communication (ISAC)
           link:
 
-        - item: Wireless Intelligence for Mobile Computing Applications
+        - item: Wireless Intelligence for Edge and Cloud Computing
+          link:
+
+        - item: Mobile AI-Based Systems & Applications
           link:
 
 career-profile:

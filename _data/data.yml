@@ -67,7 +67,7 @@ career-profile:
       With a Ph.D. in Electrical and Computer Engineering and experience as a system engineer at Samsung Electronics, 
       he has built a solid foundation in developing, prototyping, and optimizing advanced mobile solutions. 
       His work focuses on bridging theoretical insights with practical applications, particularly in network protocols, wireless design implementation, and emerging connectivity technologies. 
-      Dedicated to addressing real-world challenges, he strives to drive advancements that enable more efficient, reliable, and scalable wireless systems for the future. 
+      Dedicated to addressing real-world challenges, he aims to drive advancements that enable more efficient, reliable, and scalable wireless systems for the future. 
 
 education:
     title: Education
@@ -92,7 +92,7 @@ experiences:
         company: Seoul National University, Seoul, South Korea
         details: |
       - role: "<b>System Engineer</b>"
-        time: 2020 - Present 
+        time: 2020 - 2024 
         company: Samsung Electronics Co., Ltd., Gyeonggi-do, South Korea
         details: |
           (currently on academic leave) Connectivity Development Team of System LSI Business

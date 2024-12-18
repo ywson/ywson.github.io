@@ -109,62 +109,62 @@ publications:
     intro: (* indicates corresponding authors)
     papers:
       - title: "<b>Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness</b>"
-        link: "#"
+        link: "https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference"
         authors: "Kanghyun Lee, <u><b>Youngwook Son</b></u>*, Jongyeon Park, and Saewoong Bahk*"
         conference: "To appear in <em><b>IEEE INFOCOM 2024</b></em>, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458)"
 
       - title: "<b>Recovering CSI and Data in Dense Network Environments using IEEE 802.11ax Midamble</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/10168879"
         authors: "Kanghyun Lee, Juhun Shin, Jongyeon Park, <u><b>Youngwook Son</b></u>*, and Saewoong Bahk*"
         conference: "<em><b>IEEE Access</b></em>, vol. 11, pp. 65858-65871, June 2023. (Open Access)"
 
       - title: "<b>Revisiting Wi-Fi Performance under the Impact of Corrupted Channel State Information</b>"
-        link: "#"
+        link: "https://dl.acm.org/doi/abs/10.1145/3416010.3423223"
         authors: "<u><b>Youngwook Son</b></u> and Saewoong Bahk*"
         conference: "in <em>Proc. <b>ACM MSWiM 2020</b></em>, Online (due to COVID-19 pandemic), Nov. 16-20, 2020. (Acceptance ratio: 25% = 24/96, Best paper runner-up)"
 
       - title: "<b>REFRAIN: Promoting Valid Transmissions in High-Density Modern Wi-Fi Networks</b>"
-        link: "#"
+        link: "https://dl.acm.org/doi/abs/10.1145/3397166.3409124"
         authors: "<u><b>Youngwook Son</b></u>, Kanghyun Lee, Seongwon Kim, Jinmyeong Lee, Sunghyun Choi, and Saewoong Bahk*"
         conference: "in <em>Proc. <b>ACM MobiHoc 2020</b></em>, Online (due to COVID-19 pandemic), Oct. 11-13, 2020. (Acceptance ratio: 15.3% = 30/196)"
 
       - title: "<b>AWARE: Adaptive Wi-Fi Power Save Operation Coexisting with LTE-U</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/9077363"
         authors: "Hwijae Kwon, Seongwon Kim, <u><b>Youngwook Son</b></u>, Changmok Yang, Seongho Byeon, and Sunghyun Choi"
         conference: "in <em>Proc. <b>IEEE MASS 2019</b></em>, Monterey, CA, USA, Nov. 4-7, 2019."
 
       - title: "<b>Quiet CTS: CTS Power Control for Better Spatial Reuse in Wi-Fi</b>"
-        link: "#"
+        link: "https://dl.acm.org/doi/abs/10.1145/3323679.3326506"
         authors: "Seongwon Kim, <u><b>Youngwook Son</b></u>, Kanghyun Lee, Jaehong Yi, and Sunghyun Choi"
         conference: "in <em>Proc. <b>ACM MobiHoc 2020</b></em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
 
       - title: "<b>Symbol Timing Synchronization for Uplink Multi-User Transmission in IEEE 802.11ax WLAN</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/8539973"
         authors: "<u><b>Youngwook Son</b></u>, Seongwon Kim*, Seongho Byeon, and Sunghyun Choi*"
         conference: "<em><b>IEEE Access</b></em>, vol. 6, pp. 72962-72977, Nov. 2018. (Open Access)"
 
       - title: "<b>RECONN: Receiver-Driven Operating Channel Width Adaptation in IEEE 802.11ac WLANs</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/8485849"
         authors: "Seongho Byeon, Hwijae Kwon, <u><b>Youngwook Son</b></u>, Changmok Yang, and Sunghyun Choi"
         conference: "in <em>Proc. <b>IEEE INFOCOM 2018</b></em>, Honolulu, Hawaii, USA, Apr. 15-19, 2018. (Acceptance Ratio: 19.2% = 309/1606)"
 
       - title: "<b>Quiet ACK: ACK Transmit Power Control in IEEE 802.11 WLANs</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/8057128"
         authors: "Seongwon Kim, Jaehong Yi, <u><b>Youngwook Son</b></u>, Seungmin Yoo, and Sunghyun Choi"
         conference: "in <em>Proc. <b>IEEE INFOCOM 2017</b></em>, Atlanta, GA, USA, May 1-4, 2017. (Acceptance ratio: 20.9% = 292/1395)"
 
       - title: "<b>FACT: Fine-Grained Adaptation of Carrier Sense Threshold in IEEE 802.11 WLANs</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/7469411"
         authors: "Seongwon Kim, Seungmin Yoo, Jaehong Yi, <u><b>Youngwook Son</b></u>, and Sunghyun Choi*"
         conference: "<em><b>IEEE Transactions on Vehicular Technology (TVT)</b></em>, vol. 66, no. 2, pp. 1886-1891, Feb. 2017."
 
       - title: "<b>ProCCA: Protective Clear Channel Assessment in IEEE 802.11 WLANs</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/7420633"
         authors: "Seungmin Yoo, Seongwon Kim, Jaehong Yi, <u><b>Youngwook Son</b></u>, and Sunghyun Choi*"
         conference: "<em><b>IEEE Communications Letters</b></em>, vol. 20, no. 5, pp. 958-961, May 2016."
 
       - title: "<b>Practical Antenna Selection for WLAN AP</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/abstract/document/7524572"
         authors: "Seungmin Yoo, Seongwon Kim, <u><b>Youngwook Son</b></u>, Jaehong Yi, and Sunghyun Choi"
         conference: "in <em>Proc. <b>IEEE INFOCOM 2016</b></em>, San Francisco, CA, USA, Apr. 10-15, 2016. (Acceptance ratio: 18.2% = 300/1644)"
 
@@ -172,23 +172,23 @@ patents:
     title: Patents
     #intro: 
     patents:
-      - title: "<b>Wireless Communication Device Using Spatial Reuse and Data Communication Method Using the Same</b>"
-        link: "#"
+      - title: "<b>Wireless communication devices for transmitting data using spatial reuse and data communication methods using the same</b>"
+        link: "https://patents.google.com/patent/US11381366B2/en"
         authors: "<u><b>Youngwook Son</b></u>, Seongwon Kim, Kanghyun Lee, Jonghoon Han, and Sunghyun Choi"
         conference: "U.S. Patent 11381366, July. 5, 2022."
 
-      - title: "<b>Method and Apparatus for Determining Carrier Sense Threshold in Wireless Communication System</b>"
-        link: "#"
+      - title: "<b>Method and apparatus for determining carrier sense threshold in wireless communication system</b>"
+        link: "https://patents.google.com/patent/US10602544B2/en"
         authors: "Seongwon Kim, Seungmin Yoo, <u><b>Youngwook Son</b></u>, Jaehong Yi, Sunghyun Choi, SangHyun Chang, Byounghoon Jung, and Sooyoung Jang"
         conference: "U.S. Patent 10602544, Mar. 24, 2020."
 
-      - title: "<b>Technique and Apparatus for Selecting Multiple Antennas</b>"
-        link: "#"
+      - title: "<b>Technique and apparatus for selecting multiple antennas</b>"
+        link: "https://patents.google.com/patent/US10348377B2/en"
         authors: "Seungmin Yoo, Seongwon Kim, <u><b>Youngwook Son</b></u>, Jaehong Yi, Sunghyun Choi, Youngjip Kim, Taejun Kim, Okhwan Lee, and Woonkyun Lee"
         conference: "U.S. Patent 10348377, July 9, 2019."
 
-      - title: "<b>Method and Apparatus for Transmitting and Receiving Buffer Status Information in Wireless Communication System</b>"
-        link: "#"
+      - title: "<b>Method and apparatus for transmitting and receiving buffer status information in wireless communication system</b>"
+        link: "https://patents.google.com/patent/US10070341B2/en"
         authors: "<u><b>Youngwook Son</b></u>, Seungmin Yoo, Seongwon Kim, Jaehong Yi, Sunghyun Choi, SangHyun Chang, Byounghoon Jung, and Sooyoung Jang"
         conference: "U.S. Patent 10070341B2, Sep. 4, 2018."
 

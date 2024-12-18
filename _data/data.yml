@@ -136,7 +136,7 @@ publications:
       - title: "<b>Quiet CTS: CTS Power Control for Better Spatial Reuse in Wi-Fi</b>"
         link: "https://dl.acm.org/doi/abs/10.1145/3323679.3326506"
         authors: "Seongwon Kim, <u><b>Youngwook Son</b></u>, Kanghyun Lee, Jaehong Yi, and Sunghyun Choi"
-        conference: "in <em>Proc. <b>ACM MobiHoc 2020</b></em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
+        conference: "<em>Proceedings of <b>ACM MobiHoc 2020</b></em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
 
       - title: "<b>Symbol Timing Synchronization for Uplink Multi-User Transmission in IEEE 802.11ax WLAN</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/8539973"
@@ -146,12 +146,12 @@ publications:
       - title: "<b>RECONN: Receiver-Driven Operating Channel Width Adaptation in IEEE 802.11ac WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/8485849"
         authors: "Seongho Byeon, Hwijae Kwon, <u><b>Youngwook Son</b></u>, Changmok Yang, and Sunghyun Choi"
-        conference: "in <em>Proc. <b>IEEE INFOCOM 2018</b></em>, Honolulu, Hawaii, USA, Apr. 15-19, 2018. (Acceptance Ratio: 19.2% = 309/1606)"
+        conference: "<em>Proceedings of <b>IEEE INFOCOM 2018</b></em>, Honolulu, Hawaii, USA, Apr. 15-19, 2018. (Acceptance Ratio: 19.2% = 309/1606)"
 
       - title: "<b>Quiet ACK: ACK Transmit Power Control in IEEE 802.11 WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/8057128"
         authors: "Seongwon Kim, Jaehong Yi, <u><b>Youngwook Son</b></u>, Seungmin Yoo, and Sunghyun Choi"
-        conference: "in <em>Proc. <b>IEEE INFOCOM 2017</b></em>, Atlanta, GA, USA, May 1-4, 2017. (Acceptance ratio: 20.9% = 292/1395)"
+        conference: "<em>Proceedings of <b>IEEE INFOCOM 2017</b></em>, Atlanta, GA, USA, May 1-4, 2017. (Acceptance ratio: 20.9% = 292/1395)"
 
       - title: "<b>FACT: Fine-Grained Adaptation of Carrier Sense Threshold in IEEE 802.11 WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/7469411"
@@ -166,7 +166,7 @@ publications:
       - title: "<b>Practical Antenna Selection for WLAN AP</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/7524572"
         authors: "Seungmin Yoo, Seongwon Kim, <u><b>Youngwook Son</b></u>, Jaehong Yi, and Sunghyun Choi"
-        conference: "in <em>Proc. <b>IEEE INFOCOM 2016</b></em>, San Francisco, CA, USA, Apr. 10-15, 2016. (Acceptance ratio: 18.2% = 300/1644)"
+        conference: "<em>Proceedings of <b>IEEE INFOCOM 2016</b></em>, San Francisco, CA, USA, Apr. 10-15, 2016. (Acceptance ratio: 18.2% = 300/1644)"
 
 patents:
     title: Patents

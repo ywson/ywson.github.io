@@ -282,7 +282,7 @@ expertise:
 
       - title: "Prototyping Tools:"
         #link: "#"
-        tagline: "NI LabVIEW Communications System Design Suite (CSDS), Linux wireless drivers, and Atheros device drivers/firmwares."
+        tagline: "NI LabVIEW with Communications System Design Suite (CSDS), Linux wireless drivers, and Atheros device drivers/firmwares."
 
       - title: "Simulation Tools:"
         #link: "#"

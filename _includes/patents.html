@@ -19,7 +19,7 @@
   {% for patent in patents.patents %}
   <div class="item">
     {% if patent.link %}
-      <li><a href="{{ patent.link }}">{{ patent.title }}</a></li>
+      <li><a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a></li>
     {% else %}
       <li>{{ patent.title }}</li>
     {% endif %}

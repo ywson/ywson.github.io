@@ -111,7 +111,7 @@ publications:
       - title: "<b>Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness</b>"
         link: "https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference"
         authors: "Kanghyun Lee, <u><b>Youngwook Son</b></u>*, Jongyeon Park, and Saewoong Bahk*"
-        conference: "To appear in <em><b>IEEE INFOCOM 2024</b></em>, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458)"
+        conference: "To appear in <em><b>IEEE INFOCOM 2025</b></em>, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458)"
 
       - title: "<b>Recovering CSI and Data in Dense Network Environments using IEEE 802.11ax Midamble</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/10168879"
@@ -136,7 +136,7 @@ publications:
       - title: "<b>Quiet CTS: CTS Power Control for Better Spatial Reuse in Wi-Fi</b>"
         link: "https://dl.acm.org/doi/abs/10.1145/3323679.3326506"
         authors: "Seongwon Kim, <u><b>Youngwook Son</b></u>, Kanghyun Lee, Jaehong Yi, and Sunghyun Choi"
-        conference: "<em>Proceedings of <b>ACM MobiHoc 2020</b></em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
+        conference: "<em>Proceedings of <b>ACM MobiHoc 2019</b></em>, Catania, Italy, July 2-5, 2019. (Acceptance ratio: 23.7% = 37/156)"
 
       - title: "<b>Symbol Timing Synchronization for Uplink Multi-User Transmission in IEEE 802.11ax WLAN</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/8539973"

@@ -155,7 +155,7 @@ publications:
       - title: "<b>FACT: Fine-Grained Adaptation of Carrier Sense Threshold in IEEE 802.11 WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/7469411"
         authors: "Seongwon Kim, Seungmin Yoo, Jaehong Yi, <u><b>Youngwook Son</b></u>, and Sunghyun Choi*"
-        conference: "<em><b>IEEE Transactions on Vehicular Technology</b></em>, vol. 66, no. 2, pp. 1886-1891, Feb. 2017."
+        conference: "<em><b>IEEE Transactions on Vehicular Technology (TVT)</b></em>, vol. 66, no. 2, pp. 1886-1891, Feb. 2017."
 
       - title: "<b>ProCCA: Protective Clear Channel Assessment in IEEE 802.11 WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/7420633"
@@ -174,17 +174,17 @@ patents:
       - title: "<b>Wireless communication devices for transmitting data using spatial reuse and data communication methods using the same</b>"
         link: "https://patents.google.com/patent/US11381366B2/en"
         authors: "<u><b>Youngwook Son</b></u>, Seongwon Kim, Kanghyun Lee, Jonghoon Han, and Sunghyun Choi"
-        conference: "U.S. Patent 11381366, July. 5, 2022."
+        conference: "U.S. Patent 11381366B2, July. 5, 2022."
 
       - title: "<b>Method and apparatus for determining carrier sense threshold in wireless communication system</b>"
         link: "https://patents.google.com/patent/US10602544B2/en"
         authors: "Seongwon Kim, Seungmin Yoo, <u><b>Youngwook Son</b></u>, Jaehong Yi, Sunghyun Choi, SangHyun Chang, Byounghoon Jung, and Sooyoung Jang"
-        conference: "U.S. Patent 10602544, Mar. 24, 2020."
+        conference: "U.S. Patent 10602544B2, Mar. 24, 2020."
 
       - title: "<b>Technique and apparatus for selecting multiple antennas</b>"
         link: "https://patents.google.com/patent/US10348377B2/en"
         authors: "Seungmin Yoo, Seongwon Kim, <u><b>Youngwook Son</b></u>, Jaehong Yi, Sunghyun Choi, Youngjip Kim, Taejun Kim, Okhwan Lee, and Woonkyun Lee"
-        conference: "U.S. Patent 10348377, July 9, 2019."
+        conference: "U.S. Patent 10348377B2, July 9, 2019."
 
       - title: "<b>Method and apparatus for transmitting and receiving buffer status information in wireless communication system</b>"
         link: "https://patents.google.com/patent/US10070341B2/en"

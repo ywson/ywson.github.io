@@ -110,7 +110,7 @@ publications:
       - title: "<b>Bringing Spatial Reuse into Practice for Distributed Wi-Fi Networks: Preamble Detection and Anomalies</b>"
         link: ""
         authors: "<u><b>Youngwook Son</b></u> and Saewoong Bahk*"
-        conference: "To appear in <em><b>IEEE Journal on Selected Areas in Communications (JSAC)</b></em>, 2025."
+        conference: "To appear in <em><b>IEEE Journal on Selected Areas in Communications</b></em>, 2025."
         
       - title: "<b>Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness</b>"
         link: "https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference"
@@ -160,7 +160,7 @@ publications:
       - title: "<b>FACT: Fine-Grained Adaptation of Carrier Sense Threshold in IEEE 802.11 WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/7469411"
         authors: "Seongwon Kim, Seungmin Yoo, Jaehong Yi, <u><b>Youngwook Son</b></u>, and Sunghyun Choi*"
-        conference: "<em><b>IEEE Transactions on Vehicular Technology (TVT)</b></em>, vol. 66, no. 2, pp. 1886-1891, Feb. 2017."
+        conference: "<em><b>IEEE Transactions on Vehicular Technology</b></em>, vol. 66, no. 2, pp. 1886-1891, Feb. 2017."
 
       - title: "<b>ProCCA: Protective Clear Channel Assessment in IEEE 802.11 WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/7420633"

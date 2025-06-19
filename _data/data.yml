@@ -120,7 +120,7 @@ publications:
       - title: "<b>Recovering CSI and Data in Dense Network Environments using IEEE 802.11ax Midamble</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/10168879"
         authors: "Kanghyun Lee, Juhun Shin, Jongyeon Park, <u><b>Youngwook Son</b></u>*, and Saewoong Bahk*"
-        conference: "<em><b>IEEE Access</b></em>, vol. 11, pp. 65858-65871, June 2023. (Open Access)"
+        conference: "<em><b>IEEE Access</b></em>, vol. 11, pp. 65858-65871, June 2023."
 
       - title: "<b>Revisiting Wi-Fi Performance under the Impact of Corrupted Channel State Information</b>"
         link: "https://dl.acm.org/doi/abs/10.1145/3416010.3423223"
@@ -145,7 +145,7 @@ publications:
       - title: "<b>Symbol Timing Synchronization for Uplink Multi-User Transmission in IEEE 802.11ax WLAN</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/8539973"
         authors: "<u><b>Youngwook Son</b></u>, Seongwon Kim*, Seongho Byeon, and Sunghyun Choi*"
-        conference: "<em><b>IEEE Access</b></em>, vol. 6, pp. 72962-72977, Nov. 2018. (Open Access)"
+        conference: "<em><b>IEEE Access</b></em>, vol. 6, pp. 72962-72977, Nov. 2018."
 
       - title: "<b>RECONN: Receiver-Driven Operating Channel Width Adaptation in IEEE 802.11ac WLANs</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/8485849"

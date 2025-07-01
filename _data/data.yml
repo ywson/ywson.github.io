@@ -108,9 +108,14 @@ publications:
     intro: (* indicates corresponding authors)
     papers:
       - title: "<b>Bringing Spatial Reuse into Practice for Distributed Wi-Fi Networks: Preamble Detection and Anomalies</b>"
-        link: ""
+        link: "https://ieeexplore.ieee.org/document/11059900"
         authors: "<u><b>Youngwook Son</b></u> and Saewoong Bahk*"
         conference: "To appear in <em><b>IEEE Journal on Selected Areas in Communications</b></em>, 2025."
+
+      - title: "<b>Tackling the Coupled Frequency Offset Impairments for IEEE 802.11be Wideband WLANs</b>"
+        link: ""
+        authors: "<u><b>Youngwook Son</b></u>*, Hyunbae Jeon, and Joonsuk Kim"
+        conference: "To appear in <em><b>IEEE Transactions on Wireless Communications</b></em>, 2025."
         
       - title: "<b>Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness</b>"
         link: "https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference"

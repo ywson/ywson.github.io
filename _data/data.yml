@@ -108,7 +108,7 @@ publications:
     intro: (* indicates corresponding authors)
     papers:
       - title: "<b>Tackling the Coupled Frequency Offset Impairments for IEEE 802.11be Wideband WLANs</b>"
-        link: ""
+        link: "https://ieeexplore.ieee.org/document/11082464"
         authors: "<u><b>Youngwook Son</b></u>*, Hyunbae Jeon, and Joonsuk Kim"
         conference: "To appear in <em><b>IEEE Transactions on Wireless Communications</b></em>, 2025."
         

@@ -27,7 +27,7 @@ sidebar:
     #twitter: '@jekyllrb'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
-    goodreads: https://scholar.google.co.kr/citations?user=q7vjOQEAAAAJ&hl=ko&oi=ao # Number-Username, e.g. 123456-alandoe
+    goodreads: https://scholar.google.co.kr/citations?hl=ko&user=q7vjOQEAAAAJ&view_op=list_works&sortby=pubdate            # Number-Username, e.g. 123456-alandoe
     #mastodon: # Please include your full Mastodon link here.
     #hackerrank: # Please provide your HackerRank username.
     #leetcode: # Please provide your LeetCode username.

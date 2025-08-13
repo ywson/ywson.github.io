@@ -74,7 +74,9 @@ experiences:
     info:
       - role: "<b>Postdoc</b>"
         time: 2024 - Present
-        company: ECE, Seoul National University, South Korea
+        company: 
+            Ubiquitous Network Lab. (NETLAB) (Prof. Saewoong Bahk) <br>
+            ECE, Seoul National University, South Korea
         details: |
           Ubiquitous Network Lab. (NETLAB) (Prof. Saewoong Bahk) <br>
           Institute of New Media and Communications (INMC)

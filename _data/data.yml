@@ -122,7 +122,7 @@ publications:
       - title: "<b>Enriching Multi-User OFDMA in Wi-Fi Networks with Frequency-Selective Channel Awareness</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/11044595"
         authors: "Kanghyun Lee, <u><b>Youngwook Son</b></u>*, Jongyeon Park, and Saewoong Bahk*"
-        conference: "<em>Proceedings of <b>IEEE INFOCOM 2025</b></em>, London, United Kingdom, May 19-22, 2025. (Acceptance ratio: 18.7% = 272/1458)"
+        conference: "<em><b>IEEE INFOCOM 2025</b></em>, London, United Kingdom, May 19-22, 2025. <br> (Acceptance ratio: 18.7% = 272/1458)"
 
       - title: "<b>Recovering CSI and Data in Dense Network Environments using IEEE 802.11ax Midamble</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/10168879"

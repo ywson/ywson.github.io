@@ -110,6 +110,16 @@ publications:
     title: Publications
     intro: (* indicates corresponding authors)
     papers:
+      - title: "<b>TouchAI: Towards Waterproof Mobile Touchscreen Interface via Acoustic-Inertial Sensing Modalities</b>"
+        link: "#"
+        authors: "Jihwan Lee, <u><b>Youngwook Son</b></u>*, Tiago Koketsu Rodrigues, Yishi Zhu, Chulyoung Kwak, and Saewoong Bahk"
+        conference: "To appear in <em><b>IEEE Internet of Things Journal</b></em>, 2025."
+        
+      - title: "<b>HActiFi: Towards Practical ISAC for Human Activity Recognition via Smart TV Infrastructure</b>"
+        link: "#"
+        authors: "Youngmin Kim, Kanghyun Lee, <u><b>Youngwook Son</b></u>, and Saewoong Bahk"
+        conference: "<em><b>IEEE VTC 2025-Fall</b></em>, Chengdu, China, Oct. 19-22, 2025."
+        
       - title: "<b>Bringing Spatial Reuse into Practice for Distributed Wi-Fi Networks: Preamble Detection and Anomalies</b>"
         link: "https://ieeexplore.ieee.org/document/11059900"
         authors: "<u><b>Youngwook Son</b></u> and Saewoong Bahk*"

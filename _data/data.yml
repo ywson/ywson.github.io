@@ -111,7 +111,7 @@ publications:
     intro: (* indicates corresponding authors)
     papers:
       - title: "<b>TouchAI: Towards Waterproof Mobile Touchscreen Interface via Acoustic-Inertial Sensing Modalities</b>"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/document/11303727"
         authors: "Jihwan Lee, <u><b>Youngwook Son</b></u>*, Tiago Koketsu Rodrigues, Yishi Zhu, Chulyoung Kwak, and Saewoong Bahk"
         conference: "To appear in <em><b>IEEE Internet of Things Journal</b></em>, 2025."
         

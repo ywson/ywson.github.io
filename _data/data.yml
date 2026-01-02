@@ -99,7 +99,8 @@ education:
         time: 2013 - 2020
         details: |
             - Thesis: PHY/MAC Layer Strategies for High-Efficiency Dense WLANs
-            - Advisor: Prof. Saewoong Bahk and Sunghyun Choi (currently Corporate EVP and Head of Advanced R&D, Samsung Networks)
+            - Advisor: Prof. Saewoong Bahk and Sunghyun Choi 
+            #(currently Corporate EVP and Head of Advanced R&D, Samsung Networks)
       - degree: "<b>B.S. in Electrical and Computer Engineering, Minor in Economics</b>"
         university: Seoul National University
         time: 2009 - 2013

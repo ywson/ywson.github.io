@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: ywson@netlab.snu.ac.kr 
     phone:  
-    timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: America/Denver # Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://ywson.github.io/  # Include the full website URL, including "http://" or "https://".
     linkedin: youngwook-son

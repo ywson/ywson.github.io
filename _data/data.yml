@@ -37,9 +37,9 @@ sidebar:
       title: Affiliation
       info:
         - idiom: Internet Systems Lab. (ISL), University of Colorado Boulder
-          level: Addr. 1045 Regent Drive, Boulder CO, United States (80309)
+          level: Addr. 1045 Regent Drive, Boulder CO 80309, United States
         - idiom: Ubiquitous Network Laboratory (NETLAB) and the Institute of New Media and Communications (INMC), Seoul National University
-          level: Addr. Gwanak-ro 1, Gwanak-gu, Seoul, South Korea (08826)
+          level: Addr. Gwanak-ro 1, Gwanak-gu, Seoul 08826, South Korea
 
         #- idiom: (currently on academic leave) Connectivity Development Team of System LSI Business, Samsung Electronics
         #  level: Addr. Samsungjeonja-ro 1, Hwaseong, Gyeonggi-do, South Korea (18448)

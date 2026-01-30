@@ -196,7 +196,7 @@ publications:
 
       - title: "<b>Practical Antenna Selection for WLAN AP</b>"
         link: "https://ieeexplore.ieee.org/abstract/document/7524572"
-        authors: "<strong style="font-style: normal;">Seungmin Yoo, Seongwon Kim, <u><b>Youngwook Son</b></u>, Jaehong Yi, and Sunghyun Choi</strong>"
+        authors: "Seungmin Yoo, Seongwon Kim, <u><b>Youngwook Son</b></u>, Jaehong Yi, and Sunghyun Choi"
         conference: "<em><b>IEEE INFOCOM 2016</b></em>, San Francisco, CA, USA, Apr. 10-15, 2016. <br> (Acceptance rate: 18.2% = 300/1644)"
 
 patents:

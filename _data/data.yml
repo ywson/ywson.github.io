@@ -291,23 +291,23 @@ projects:
     title: Awards &amp; Scholarship
     #intro: >
     assignments:
-      - title: Paper Excellence Award
+      - title: "<em>Paper Excellence Award</em>"
         link: 
         tagline: from SNU-Samsung DS SSSP Scholarship, Aug. 2020.
 
-      - title: Gold Prize (1st prize in Communications & Network division) 
+      - title: "<em>Gold Prize (1st prize in Communications & Network division)</em>" 
         link: 
         tagline: from Samsung HumanTech Paper Awards, Feb. 2016.
 
-      - title: Industrial Scholarship
+      - title: "<em>Industrial Scholarship</em>"
         link: 
         tagline: from Samsung Electronics, Mar. 2017 to Aug. 2020.
 
-      - title: Graduate Student Scholarship 
+      - title: "<em>Graduate Student Scholarship</em>" 
         link: 
         tagline: from Korea Education For Advanced Studies (KFAS), Mar. 2014 to Feb. 2019.
 
-      - title: National Science and Technology Scholarship 
+      - title: "<em>National Science and Technology Scholarship</em>" 
         link: 
         tagline: from Korea Student Aid Foundation (KOSAF), Mar. 2009 to Feb. 2013.
 

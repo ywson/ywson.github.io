@@ -201,7 +201,7 @@ publications:
 
 patents:
     title: Patents
-    #intro: 
+    intro: (Granted U.S. patents only)
     patents:
       - title: "<em><b>Wireless communication devices for transmitting data using spatial reuse and data communication methods using the same</b></em>"
         link: "https://patents.google.com/patent/US11381366B2/en"

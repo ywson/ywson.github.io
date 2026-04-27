@@ -281,7 +281,7 @@ oss:
     contributions:
       - title: "Paper Reviewer:"
         #link: "#"
-        tagline: "ACM MobiCom, IEEE INFOCOM, IEEE WoWMoM, IEEE SECON, IEEE GLOBECOM, IEEE WCNC, <em>IEEE J. Select. Areas Commun.</em>, <em>IEEE Trans. Wireless Commun.</em>, <em>IEEE Trans. Mobile Comput.</em>, <em>IEEE/ACM Trans. Netw.</em>, <em>IEEE Wirel. Commun. Lett.</em>"
+        tagline: "<em>ACM MobiCom</em>, <em>IEEE INFOCOM</em>, <em>IEEE WoWMoM</em>, <em>IEEE SECON</em>, <em>IEEE GLOBECOM</em>, <em>IEEE WCNC</em>, <em>IEEE J. Select. Areas Commun.</em>, <em>IEEE Trans. Wireless Commun.</em>, <em>IEEE Trans. Mobile Comput.</em>, <em>IEEE/ACM Trans. Netw.</em>, <em>IEEE Wirel. Commun. Lett.</em>, <em>IEEE Commun. Lett.</em>"
         
       - title: "Invited Talks and Tutorials:"
         #link: "#"

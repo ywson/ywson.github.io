@@ -119,6 +119,11 @@ publications:
     title: Publications
     intro: (* indicates corresponding authors)
     papers:
+      - title: "<em><b>On the Interference Resilience of Non-Linear Chirp Modulation for LoRa: An Analytical Insight into Energy Scattering Effect</b></em>"
+        link: ""
+        authors: "Yonghoon Jeong, <u><b>Youngwook Son</b></u>*, and Saewoong Bahk"
+        conference: "To appear in <em><b>IEEE Communications Letters</b></em>, 2026."
+        
       - title: "<em><b>TouchAI: Towards Waterproof Mobile Touchscreen Interface via Acoustic-Inertial Sensing Modalities</b></em>"
         link: "https://ieeexplore.ieee.org/document/11303727"
         authors: "Jihwan Lee, <u><b>Youngwook Son</b></u>*, Tiago Koketsu Rodrigues, Yishi Zhu, Chulyoung Kwak, and Saewoong Bahk"

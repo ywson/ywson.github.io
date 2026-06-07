@@ -120,7 +120,7 @@ publications:
     intro: (* indicates corresponding authors)
     papers:
       - title: "<em><b>On the Interference Resilience of Non-Linear Chirp Modulation for LoRa: An Analytical Insight into Energy Scattering Effect</b></em>"
-        link: ""
+        link: "https://ieeexplore.ieee.org/document/11550153"
         authors: "Yonghoon Jeong, <u><b>Youngwook Son</b></u>*, and Saewoong Bahk"
         conference: "To appear in <em><b>IEEE Communications Letters</b></em>, 2026."
         

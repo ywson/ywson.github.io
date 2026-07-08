@@ -47,19 +47,19 @@ sidebar:
     interests:
       title: Research Interests
       info:
-        - item: Wireless Networks & Connectivity
+        - item: Wireless Networking
           link: 
 
-        - item: Communication System Design
+        - item: Mobile Systems
           link:
           
-        - item: Integrated Sensing and Communication (ISAC)
+        - item: Distributed Computing
           link:
 
-        - item: Wireless Intelligence for Edge and Cloud Computing
+        - item: ISAC
           link:
 
-        - item: Mobile AI-Based Applications
+        - item: Computer Networks
           link:
 
 career-profile:

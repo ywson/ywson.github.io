@@ -117,11 +117,16 @@ education:
 
 publications:
     title: Publications
-    intro: (* indicates corresponding authors)
+    intro: (* indicates corresponding authors; (=) indicates co-first authors)
     papers:
+      - title: "<em><b>RTCBench: A Scalable Benchmarking Framework for Multi-Party Video Conferencing</b></em>"
+        link: ""
+        authors: "Evan Ram, Tuan Tran, <u><b>Youngwook Son</b></u>*, and Sangtae Ha*"
+        conference: "To appear in <em><b>ACM Multimedia 2026</b></em>, Rio de Janeiro, Brazil, Nov. 10-14, 2026. <br> (Acceptance rate: TBA)"
+        
       - title: "<em><b>DeepSFU: Scalable Deepfake Detection for Video Conferencing</b></em>"
         link: ""
-        authors: "Tuan Tran, Shirin Ebadi, S.M.H. Hosseini, Woongsub Shin, Evan Ram, <u><b>Youngwook Son</b></u>, Seyeon Kim, Nam Bui, Kyunghan Lee, Eric Keller, and Sangtae Ha"
+        authors: "Tuan Tran, Shirin Ebadi, S.M.H. Hosseini, Woongsub Shin, Evan Ram, <u><b>Youngwook Son</b></u>, Seyeon Kim, Nam Bui, Kyunghan Lee, Eric Keller, and Sangtae Ha*"
         conference: "To appear in <em><b>ACM SIGCOMM 2026</b></em>, Denver, CO, USA, Aug. 17-21, 2026. <br> (Acceptance rate: TBA)"
         
       - title: "<em><b>On the Interference Resilience of Non-Linear Chirp Modulation for LoRa: An Analytical Insight into Energy Scattering Effect</b></em>"

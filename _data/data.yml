@@ -121,7 +121,7 @@ publications:
     papers:
       - title: "<em><b>RTCBench: A Scalable Benchmarking Framework for Multi-Party Video Conferencing</b></em>"
         link: ""
-        authors: "Evan Ram, Tuan Tran, <u><b>Youngwook Son</b></u>*, and Sangtae Ha"
+        authors: "Evan Ram(=), Tuan Tran(=), <u><b>Youngwook Son</b></u>*, and Sangtae Ha"
         conference: "To appear in <em><b>ACM Multimedia 2026</b></em>, Rio de Janeiro, Brazil, Nov. 10-14, 2026. <br> (Acceptance rate: TBA)"
         
       - title: "<em><b>DeepSFU: Scalable Deepfake Detection for Video Conferencing</b></em>"

@@ -117,7 +117,7 @@ education:
 
 publications:
     title: Publications
-    intro: "<b>(=): co-first authors, &nbsp *: corresponding authors</b>"
+    intro: "<b>(=): co-first authors,&nbsp;&nbsp;*: corresponding authors</b>"
     papers:
       - title: "<em><b>RTCBench: A Scalable Benchmarking Framework for Multi-Party Video Conferencing</b></em>"
         link: ""

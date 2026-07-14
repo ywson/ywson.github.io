@@ -117,7 +117,7 @@ education:
 
 publications:
     title: Publications
-    intro: "<b>(=): Equal contribution,&nbsp;&nbsp;*: Corresponding authors</b>"
+    intro: "(=): Equal contribution,&nbsp;&nbsp;*: Corresponding authors"
     papers:
       - title: "<em><b>Demystifying Multi-Link Device Behavior and Performance under Network Saturation in Wi-Fi 7</b></em>"
         link: ""

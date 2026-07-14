@@ -119,6 +119,11 @@ publications:
     title: Publications
     intro: "<b>(=): Equal contribution,&nbsp;&nbsp;*: Corresponding authors</b>"
     papers:
+      - title: "<em><b>Demystifying Multi-Link Device Behavior and Performance under Network Saturation in Wi-Fi 7</b></em>"
+        link: ""
+        authors: "Jongyeon Park(=), <u><b>Youngwook Son(=)</b></u>*, Kanghyun Lee, Jonghun Han, and Saewoong Bahk"
+        conference: "To appear in <em><b>IEEE Transactions on Networking</b></em>, 2026."
+        
       - title: "<em><b>RTCBench: A Scalable Benchmarking Framework for Multi-Party Video Conferencing</b></em>"
         link: ""
         authors: "Evan Ram(=), Tuan Tran(=), <u><b>Youngwook Son</b></u>*, and Sangtae Ha"

@@ -120,7 +120,7 @@ publications:
     intro: "(=): Equal contribution,&nbsp;&nbsp;*: Corresponding authors"
     papers:
       - title: "<em><b>Demystifying Multi-Link Device Behavior and Performance under Network Saturation in Wi-Fi 7</b></em>"
-        link: ""
+        link: "https://ieeexplore.ieee.org/document/11614893"
         authors: "Jongyeon Park(=), <u>Youngwook Son(=)</u>*, Kanghyun Lee, Jonghun Han, and Saewoong Bahk"
         conference: "To appear in <em><b>IEEE Transactions on Networking</b></em>, 2026."
         
@@ -130,7 +130,7 @@ publications:
         conference: "To appear in <em><b>ACM Multimedia 2026</b></em>, Rio de Janeiro, Brazil, Nov. 10-14, 2026. <br> (Acceptance rate: TBA)"
         
       - title: "<em><b>DeepSFU: Scalable Deepfake Detection for Video Conferencing</b></em>"
-        link: ""
+        link: "https://conferences.sigcomm.org/sigcomm/2026/accepted/"
         authors: "Tuan Tran, Shirin Ebadi, S.M.H. Hosseini, Woongsub Shin, Evan Ram, <u>Youngwook Son</u>, Seyeon Kim, Nam Bui, Kyunghan Lee, Eric Keller, and Sangtae Ha*"
         conference: "To appear in <em><b>ACM SIGCOMM 2026</b></em>, Denver, CO, USA, Aug. 17-21, 2026. <br> (Acceptance rate: TBA)"
         

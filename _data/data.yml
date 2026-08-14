@@ -130,7 +130,7 @@ publications:
         conference: "To appear in <em><b>ACM Multimedia 2026</b></em>, Rio de Janeiro, Brazil, Nov. 10-14, 2026. <br> (Acceptance rate: TBA)"
         
       - title: "<em><b>DeepSFU: Scalable Deepfake Detection for Video Conferencing</b></em>"
-        link: "https://conferences.sigcomm.org/sigcomm/2026/accepted/"
+        link: "https://dl.acm.org/doi/10.1145/3789240.3829184"
         authors: "Tuan Tran, Shirin Ebadi, S.M.H. Hosseini, Woongsub Shin, Evan Ram, <u>Youngwook Son</u>, Seyeon Kim, Nam Bui, Kyunghan Lee, Eric Keller, and Sangtae Ha*"
         conference: "To appear in <em><b>ACM SIGCOMM 2026</b></em>, Denver, CO, USA, Aug. 17-21, 2026. <br> (Acceptance rate: TBA)"
         

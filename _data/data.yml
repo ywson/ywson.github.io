@@ -119,16 +119,16 @@ publications:
     title: Publications
     intro: "(=): Equal contribution,&nbsp;&nbsp;*: Corresponding authors"
     papers:
-      - title: "<em><b>SeCURE: Selective CSI Utilization for Robust Wi-Fi Sensing under Network Dynamics</b></em>"
-        link: ""
-        authors: "Kanghyun Lee(=), <u>Youngwook Son</u>(=)*, Youngmin Kim, Jongyeon Park, Sangtae Ha, and Saewoong Bahk"
-        conference: "To appear in <em><b>IEEE MASS 2026</b></em> (invited), Hong Kong SAR, China, Oct. 21-23, 2026."
-        
       - title: "<em><b>RTCBench: A Scalable Benchmarking Framework for Multi-Party Video Conferencing</b></em>"
         link: ""
         authors: "Evan Ram(=), Tuan Tran(=), <u>Youngwook Son</u>*, and Sangtae Ha"
         conference: "To appear in <em><b>ACM Multimedia 2026</b></em>, Rio de Janeiro, Brazil, Nov. 10-14, 2026. <br> (Acceptance rate: TBA)"
         
+      - title: "<em><b>SeCURE: Selective CSI Utilization for Robust Wi-Fi Sensing under Network Dynamics</b></em>"
+        link: ""
+        authors: "Kanghyun Lee(=), <u>Youngwook Son</u>(=)*, Youngmin Kim, Jongyeon Park, Sangtae Ha, and Saewoong Bahk"
+        conference: "To appear in <em><b>IEEE MASS 2026</b></em> (invited), Hong Kong SAR, China, Oct. 21-23, 2026."  
+      
       - title: "<em><b>Demystifying Multi-Link Device Behavior and Performance under Network Saturation in Wi-Fi 7</b></em>"
         link: "https://ieeexplore.ieee.org/document/11614893"
         authors: "Jongyeon Park(=), <u>Youngwook Son</u>(=)*, Kanghyun Lee, Jonghun Han, and Saewoong Bahk"

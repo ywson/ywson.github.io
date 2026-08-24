@@ -137,7 +137,7 @@ publications:
       - title: "<em><b>DeepSFU: Scalable Deepfake Detection for Video Conferencing</b></em>"
         link: "https://dl.acm.org/doi/10.1145/3789240.3829184"
         authors: "Tuan Tran, Shirin Ebadi, S.M.H. Hosseini, Woongsub Shin, Evan Ram, <u>Youngwook Son</u>, Seyeon Kim, Nam Bui, Kyunghan Lee, Eric Keller, and Sangtae Ha*"
-        conference: "<em><b>ACM SIGCOMM 2026</b></em>, Denver, CO, USA, Aug. 17-21, 2026. <br> (Acceptance rate: TBA)"
+        conference: "<em><b>ACM SIGCOMM 2026</b></em>, Denver, CO, USA, Aug. 17-21, 2026. <br> (Acceptance rate: 21.2% = 109/513)"
         
       - title: "<em><b>On the Interference Resilience of Non-Linear Chirp Modulation for LoRa: An Analytical Insight into Energy Scattering Effect</b></em>"
         link: "https://ieeexplore.ieee.org/document/11550153"

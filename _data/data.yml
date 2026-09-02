@@ -228,6 +228,11 @@ patents:
     title: Patents
     intro: (Granted U.S. patents only)
     patents:
+      - title: "<em><b>Station and access point performing WLAN-based communication, and operation methods thereof</b></em>"
+        link: "https://patents.google.com/patent/US12634062B2/en"
+        authors: "Jinmin Kim, Wookbong Lee, and <u>Youngwook Son</u>"
+        conference: "U.S. Patent 12634062B2, May 19, 2026."
+        
       - title: "<em><b>Wireless communication devices for transmitting data using spatial reuse and data communication methods using the same</b></em>"
         link: "https://patents.google.com/patent/US11381366B2/en"
         authors: "<u>Youngwook Son</u>, Seongwon Kim, Kanghyun Lee, Jonghoon Han, and Sunghyun Choi"

@@ -231,7 +231,7 @@ publications:
 
 patents:
     title: Patents
-    intro: (Granted U.S. patents only)
+    intro: (U.S., granted)
     patents:
       - title: "<em><b>Station and access point performing WLAN-based communication, and operation methods thereof</b></em>"
         link: "https://patents.google.com/patent/US12634062B2/en"

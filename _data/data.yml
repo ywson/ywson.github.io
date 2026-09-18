@@ -119,6 +119,11 @@ publications:
     title: Publications
     intro: "(=): Equal contribution,&nbsp;&nbsp;*: Corresponding authors"
     papers:
+      - title: "<em><b>Unlocking Opportunistic Transmission in Datacenter Flow Control</b></em>"
+        link: ""
+        authors: "Jaeyoon Hwang, <u>Youngwook Son</u>, Hojoon Kim, Juhun Shin, Taekyoung Han, Junhong Min, Daewook Hwang, Sangtae Ha, and Kyunghan Lee"
+        conference: "To appear in <em><b>ACM CoNEXT 2026</b></em>, Utrecht, Netherlands, Dec. 7-10, 2026. <br> (Acceptance rate: 14.5% = 25/172)"
+        
       - title: "<em><b>RTCBench: A Scalable Benchmarking Framework for Multi-Party Video Conferencing</b></em>"
         link: ""
         authors: "Evan Ram(=), Tuan Tran(=), <u>Youngwook Son</u>*, and Sangtae Ha"

@@ -1,2 +1,20 @@
 <!-- Javascript -->
+<script>
+  (function () {
+    var button = document.querySelector('.theme-toggle');
+    if (!button) return;
+
+    var root = document.documentElement;
+
+    button.addEventListener('click', function () {
+      // light is the default, so no attribute means the page is light
+      var current = root.getAttribute('data-theme') || 'light';
+      var next = current === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try {
+        localStorage.setItem('theme', next);
+      } catch (e) {}
+    });
+  })();
+</script>
 {% if site.analytics %} {% include analytics.html %} {% endif %}

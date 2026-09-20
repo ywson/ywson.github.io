@@ -1,0 +1,150 @@
+/* ======= Dark theme =======
+ * Colors sampled from Chrome's auto-dark rendering of this site, then
+ * adjusted so publication titles keep the contrast they have in light mode.
+ * Applied when the visitor's OS asks for dark, or when they pick dark with
+ * the toggle; [data-theme="light"] always wins over the OS preference.
+*/
+
+$dark-page: #121212;
+$dark-sidebar: #051932;
+$dark-main: #1f1f1f;
+$dark-text: #b8beca;
+$dark-heading: #e8eaed;
+$dark-title: #ededed;
+$dark-muted: #7f8a9c;
+$dark-accent: #c9e3f2;
+$dark-venue: #f1aab2;
+
+@mixin dark-palette {
+  color-scheme: dark;
+
+  body {
+    background: $dark-page;
+    color: $dark-text;
+  }
+
+  .wrapper {
+    background: $dark-sidebar;
+  }
+
+  .sidebar-wrapper {
+    background: $dark-sidebar;
+  }
+
+  .main-wrapper {
+    background: $dark-main;
+
+    .section-title {
+      color: $dark-accent;
+      // dark glyph inside the light circle of the section icon
+      .fa-inverse {
+        color: $dark-main;
+      }
+    }
+
+    a {
+      color: $dark-accent;
+      &:hover {
+        color: lighten($dark-accent, 8%);
+      }
+    }
+
+    .job-title,
+    .degree,
+    .cert-title {
+      color: $dark-heading;
+    }
+
+    .time,
+    .cert-url,
+    .company,
+    .university,
+    .cert-org {
+      color: $dark-muted;
+    }
+
+    // Professional Activities, Awards & Scholarship, Skills & Expertise
+    .project-title {
+      color: #fff;
+    }
+    .project-tagline {
+      color: #d5dae2;
+    }
+
+    .publication-authors {
+      color: $dark-muted;
+    }
+
+    .publication-conference em {
+      color: $dark-venue;
+    }
+
+    .publications-section {
+      .item li,
+      .item li a {
+        color: $dark-title;
+      }
+      .item li a:hover {
+        color: $dark-accent;
+      }
+    }
+  }
+
+  .skillset .level-bar {
+    background: lighten($dark-main, 8%);
+  }
+
+  .footer .copyright {
+    color: $dark-muted;
+  }
+}
+
+// Light is the default for everyone; dark applies only once the visitor
+// picks it with the toggle, and that choice is remembered.
+html[data-theme="dark"] {
+  @include dark-palette;
+}
+
+/* ======= Theme toggle button ======= */
+.sidebar-wrapper .profile-container {
+  position: relative;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 10;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 0;
+  border-radius: 100%;
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  font-size: 15px;
+  line-height: 36px;
+  cursor: pointer;
+  &:hover {
+    background: rgba(255, 255, 255, 0.3);
+  }
+  // one icon per theme; JS is only needed to flip the root attribute
+  .fa-sun {
+    display: none;
+  }
+}
+
+html[data-theme="dark"] .theme-toggle {
+  .fa-sun {
+    display: inline-block;
+  }
+  .fa-moon {
+    display: none;
+  }
+}
+
+@media print {
+  .theme-toggle {
+    display: none;
+  }
+}

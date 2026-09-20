@@ -251,12 +251,24 @@ p {
     font-size: 12px;
     margin-bottom: 1px;
   }
+  // venue name, italicised inside the conference line
+  .publication-conference em {
+    color: #a01b26;
+  }
   .publications-section {
     .intro {
       margin-bottom: 30px;
     }
     .item {
       margin-bottom: 15px;
+    }
+    // same title color whether or not the paper has a link
+    .item li,
+    .item li a {
+      color: #1a1a1a;
+    }
+    .item li a:hover {
+      color: darken($theme-color, 15%);
     }
   }
 }

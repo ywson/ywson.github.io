@@ -21,7 +21,8 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/plugins/font-awesome/css/all.css">
 
   <!-- Theme CSS -->
-  <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+  <!-- ?v= changes on every build, so visitors never get a stale stylesheet -->
+  <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css?v={{ site.time | date: '%s' }}">
 
   <!-- Apply the saved light/dark choice before first paint, so the page
        never flashes the other theme. No choice saved: the OS decides. -->

@@ -125,7 +125,7 @@ publications:
         conference: "To appear in <em><b>ACM CoNEXT 2026</b></em>, Utrecht, Netherlands, Dec. 7-10, 2026. <br> (Acceptance rate: 14.5% = 25/172)"
         
       - title: "<b>RTCBench: A Scalable Benchmarking Framework for Multi-Party Video Conferencing</b>"
-        link: ""
+        link: "https://dl.acm.org/doi/10.1145/3767308.3835424"
         authors: "Evan Ram(=), Tuan Tran(=), <u>Youngwook Son</u>*, and Sangtae Ha"
         conference: "To appear in <em><b>ACM Multimedia 2026</b></em>, Rio de Janeiro, Brazil, Nov. 10-14, 2026. <br> (Acceptance rate: 26.4% = 1865/7053)"
         
